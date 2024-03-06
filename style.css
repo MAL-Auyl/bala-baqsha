@@ -18,6 +18,9 @@
   text-transform: capitalize;
   transition: all .2s linear;
 }
+@media only screen and (max-width: 600px) {
+    /* Стили для маленьких экранов */
+}
 
 html{
   font-size: 62.5%;
