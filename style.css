@@ -967,4 +967,8 @@ body {
   height: 200px;
 }
 
-	
+	.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
